@@ -60,13 +60,3 @@ I am specialized in building web apps using Php(Laravel, Php), Javascript (React
 - [Homehop](https://homehop.in/)
 
 ---
-
-### Connect with me:
-
-[<img align="left" alt="Pawan | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Email]
-
-<br />
-
----
-
-[Email]: thepkpawankumar@gmail.com
