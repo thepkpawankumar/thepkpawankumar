@@ -57,6 +57,7 @@ I am specialized in building web apps using Php(Laravel, Php), Javascript (React
 - [Bennieadam](https://bennieadam.com.au/)
 - [Indiaverse](https://indiaverse.me/)
 - [Beachpebblesdirect](https://beachpebblesdirect.com/)
+- [Madano](https://madanonyc.com/)
 - [Cococlean](https://cococlean.com/)
 - [Homehop](https://homehop.in/)
 - [Perfectlocks](https://www.perfectlocks.com/)
