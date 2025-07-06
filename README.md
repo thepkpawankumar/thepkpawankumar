@@ -56,7 +56,18 @@ I am specialized in building web apps using Php(Laravel, Php), Javascript (React
 - [Lovapets ES](https://lovapets.es/)
 - [Bennieadam](https://bennieadam.com.au/)
 - [Indiaverse](https://indiaverse.me/)
+- [Beachpebblesdirect](https://beachpebblesdirect.com/)
 - [Cococlean](https://cococlean.com/)
 - [Homehop](https://homehop.in/)
+- [Perfectlocks](https://www.perfectlocks.com/)
+- [AYBL](https://www.aybl.com/)
+- [Because of alice](https://www.becauseofalice.com/)
+- [Fabricwholesaledirect](https://fabricwholesaledirect.com/)
+- [Bysimran](https://bysimran.com/)
+- [Align itero](https://shop.itero.com/)
+- [Fotomaster](https://fotomaster.com/)
+- [Bfreeaustralia](https://www.bfreeaustralia.com.au/)
+- [On Running](https://ingsport.co.il/)
+- [Blokwatches](https://blokwatches.com/)
 
 ---
